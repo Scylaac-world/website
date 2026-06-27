@@ -1219,7 +1219,7 @@ export default function DiagnosticScene() {
 
         {/* STATS BAR */}
         <div ref={statsRef} className="mt-8 w-full max-w-3xl grid grid-cols-3 gap-4">
-          {[{ value: "200+", label: "Projects Delivered" }, { value: "99.99%", label: "Uptime SLA" }, { value: "<24h", label: "Response Time" }].map((stat, i) => (
+          {[{ value: "20+", label: "Projects Delivered" }, { value: "99.99%", label: "Uptime SLA" }, { value: "<24h", label: "Response Time" }].map((stat, i) => (
             <div key={i} className="relative group bg-white/90 backdrop-blur-sm rounded-xl p-4 text-center border border-[#E2E8F0] hover:border-[#1E90C8]/40 hover:shadow-lg transition-all duration-300">
               <div className="absolute inset-0 rounded-xl bg-[#1E90C8]/5 opacity-0 group-hover:opacity-100 transition-opacity" />
               <p className="text-2xl font-bold text-[#0F172A]">{stat.value}</p>
@@ -1506,7 +1506,7 @@ export default function HeroEnhanced() {
             </div>
             <div className="hero-stats flex flex-wrap gap-6 mt-10">
               <div className="flex items-center gap-3 bg-white/5 backdrop-blur-sm rounded-xl px-4 py-3 border border-white/10">
-                <span className="text-2xl font-bold text-white">200+</span>
+                <span className="text-2xl font-bold text-white">20+</span>
                 <span className="text-xs text-slate-400">Projects Delivered</span>
               </div>
               <div className="flex items-center gap-3 bg-white/5 backdrop-blur-sm rounded-xl px-4 py-3 border border-white/10">
@@ -2242,7 +2242,7 @@ const pillars = [
 ];
 
 const stats = [
-  { value: "200+", label: "Projects Delivered", color: "#1E90C8" },
+  { value: "20+", label: "Projects Delivered", color: "#1E90C8" },
   { value: "98%", label: "Client Satisfaction", color: "#7C3AED" },
   { value: "24/7", label: "Expert Support", color: "#10B981" },
   { value: "5★", label: "Average Rating", color: "#C0C4C8" },

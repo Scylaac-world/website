@@ -100,7 +100,7 @@ const pillars = [
 ];
 
 const stats = [
-  { value: "200+", label: "Projects Delivered" },
+  { value: "20+", label: "Projects Delivered" },
   { value: "98%", label: "Client Satisfaction" },
   { value: "24/7", label: "Expert Support" },
   { value: "5★", label: "Average Rating" },

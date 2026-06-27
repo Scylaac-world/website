@@ -324,7 +324,7 @@ export default function DiagnosticScene() {
         <ScrollReveal>
           <div className="grid grid-cols-3 gap-3 mt-4">
             {[
-              { value: "200+", label: "Projects" },
+              { value: "20+", label: "Projects" },
               { value: "99.99%", label: "Uptime" },
               { value: "<24h", label: "Response" },
             ].map((stat, i) => (

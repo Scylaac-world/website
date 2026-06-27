@@ -248,7 +248,7 @@ export default function HeroEnhanced() {
             {/* Stats */}
             <div className="hero-stats flex gap-2 md:gap-4 mt-6">
               <div className="flex items-center gap-1.5 bg-white/5 backdrop-blur-sm rounded-lg px-2 py-1.5 md:px-4 md:py-3 border border-white/10">
-                <span className="text-base md:text-2xl font-bold text-white">200+</span>
+                <span className="text-base md:text-2xl font-bold text-white">20+</span>
                 <span className="text-[10px] md:text-xs text-slate-400">Projects</span>
               </div>
               <div className="flex items-center gap-1.5 bg-white/5 backdrop-blur-sm rounded-lg px-2 py-1.5 md:px-4 md:py-3 border border-white/10">
