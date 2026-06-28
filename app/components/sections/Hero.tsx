@@ -237,7 +237,7 @@ export default function HeroEnhanced() {
 
             {/* Buttons */}
             <div className="hero-buttons flex gap-3 mt-6 w-full">
-              <Link href="#customers" className="group relative inline-flex items-center justify-center flex-1 px-4 py-3 md:px-8 md:py-4 bg-gradient-to-r from-[#1E90C8] to-[#1873A3] rounded-xl text-white font-semibold shadow-2xl shadow-[#1E90C8]/25 hover:scale-105 transition-transform text-xs md:text-base">
+              <Link href="#services" className="group relative inline-flex items-center justify-center flex-1 px-4 py-3 md:px-8 md:py-4 bg-gradient-to-r from-[#1E90C8] to-[#1873A3] rounded-xl text-white font-semibold shadow-2xl shadow-[#1E90C8]/25 hover:scale-105 transition-transform text-xs md:text-base">
                 Explore services <i className="fas fa-arrow-down ml-2 group-hover:translate-y-0.5 transition" />
               </Link>
               <Link href="#contact" className="group relative inline-flex items-center justify-center flex-1 px-4 py-3 md:px-8 md:py-4 bg-transparent border border-white/30 text-white rounded-xl font-semibold hover:bg-white/10 transition text-xs md:text-base">
