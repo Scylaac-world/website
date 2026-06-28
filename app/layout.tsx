@@ -14,11 +14,11 @@ const inter = Inter({
 // SEO Metadata
 export const metadata: Metadata = {
   title: {
-    default: "SCYLAAAC – Best Software & App Development Company in Mangalore",
-    template: "%s | SCYLAAAC",
+    default: "Scylaac – Best Software & App Development Company in Mangalore",
+    template: "%s | Scylaac",
   },
   description:
-    "SCYLAAAC is a leading software and app development company in Mangalore. We specialize in web, mobile, AI, SAP, and ERP solutions to scale your business.",
+    "Scylaac is a leading software and app development company in Mangalore. We specialize in web, mobile, AI, SAP, and ERP solutions to scale your business.",
   keywords: [
     "software company Mangalore",
     "app development company",
@@ -29,11 +29,11 @@ export const metadata: Metadata = {
     "mobile app development",
     "digital transformation",
     "best software company in Mangalore",
-    "SCYLAAAC",
+    "Scylaac",
   ],
-  authors: [{ name: "SCYLAAAC" }],
-  creator: "SCYLAAAC",
-  publisher: "SCYLAAAC",
+  authors: [{ name: "Scylaac" }],
+  creator: "Scylaac",
+  publisher: "Scylaac",
   robots: {
     index: true,
     follow: true,
@@ -46,17 +46,17 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "SCYLAAAC – Best Software & App Development Company in Mangalore",
+    title: "Scylaac – Best Software & App Development Company in Mangalore",
     description:
       "We build web, mobile, AI, and ERP solutions that scale. Trusted by businesses in Mangalore and beyond.",
     url: "https://scylaac.com",
-    siteName: "SCYLAAAC",
+    siteName: "Scylaac",
     images: [
       {
         url: "https://scylaac.com/assets/logo.png", // same logo as navbar/footer
         width: 1200,
         height: 630,
-        alt: "SCYLAAAC – Alchemy of Dreams",
+        alt: "Scylaac – Alchemy of Dreams",
       },
     ],
     locale: "en_IN",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "SCYLAAAC – Best Software & App Development Company",
+    title: "Scylaac – Best Software & App Development Company",
     description:
       "We deliver scalable digital solutions – web, mobile, AI, and ERP. Based in Mangalore.",
     images: ["https://scylaac.com/assets/logo.png"], // same logo
@@ -104,11 +104,11 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              name: "SCYLAAAC",
+              name: "Scylaac",
               url: "https://scylaac.com",
               logo: "https://scylaac.com/assets/logo.png",
               description:
-                "SCYLAAAC is a software and app development company in Mangalore, offering web, mobile, AI, SAP, and ERP solutions.",
+                "Scylaac is a software and app development company in Mangalore, offering web, mobile, AI, SAP, and ERP solutions.",
               address: {
                 "@type": "PostalAddress",
                 addressLocality: "Mangalore",
@@ -138,7 +138,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
-              name: "SCYLAAAC",
+              name: "Scylaac",
               image: "https://scylaac.com/assets/logo.png",
               "@id": "https://scylaac.com",
               url: "https://scylaac.com",

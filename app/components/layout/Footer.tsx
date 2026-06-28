@@ -58,7 +58,7 @@ export default function Footer() {
             <Link href="/" className="inline-block mb-4">
               <Image
                 src="/assets/logo.png"
-                alt="SCYLAAAC"
+                alt="Scylaac"
                 width={180}
                 height={50}
                 className="h-12 w-auto"
@@ -133,7 +133,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-10 pt-6 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-400 text-sm">
-            © {new Date().getFullYear()} SCYLAAAC. Alchemy of Dreams. All rights reserved.
+            © {new Date().getFullYear()} Scylaac. Alchemy of Dreams. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <Link href="#" className="text-slate-400 hover:text-[#1E90C8] transition">

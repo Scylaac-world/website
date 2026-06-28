@@ -130,7 +130,7 @@ export default function ContactPage() {
 export default function AboutPage() {
   return (
     <main className="py-28 px-6 section-dark text-center">
-      <h1 className="text-4xl font-bold text-white mb-4">About SCYLAAAC</h1>
+      <h1 className="text-4xl font-bold text-white mb-4">About Scylaac</h1>
       <p className="text-gray-300 max-w-2xl mx-auto">We bridge the gap between ambitious businesses and the complex technology they need to scale.</p>
     </main>
   );
@@ -2108,7 +2108,7 @@ export default function WhyChooseUs() {
             <span ref={(el) => { titleWordsRef.current[1] = el; }} className="inline-block">the</span>{" "}
             <span ref={(el) => { titleWordsRef.current[2] = el; }} className="inline-block">best</span>{" "}
             <span ref={(el) => { titleWordsRef.current[3] = el; }} className="inline-block">choose</span>{" "}
-            <span ref={(el) => { titleWordsRef.current[4] = el; }} className="inline-block text-[#1E90C8]">SCYLAAAC</span>
+            <span ref={(el) => { titleWordsRef.current[4] = el; }} className="inline-block text-[#1E90C8]">Scylaac</span>
           </h2>
         </div>
 
@@ -2716,7 +2716,7 @@ export default function Navbar() {
           </div>
           <div>
             <div className={`font-bold tracking-tight text-2xl ${navbarTheme === "light" ? "text-gray-900" : "text-white"}`}>
-              SCYLAAAC
+              Scylaac
             </div>
             <div
               className={`text-[10px] font-medium tracking-[.35em] ${
@@ -2976,7 +2976,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-[#1E90C8] to-[#1873A3] rounded-xl flex items-center justify-center shadow-lg shadow-[#1E90C8]/20">
                 <span className="font-bold text-white text-xl">S</span>
               </div>
-              <span className="text-white font-bold text-2xl tracking-tight">SCYLAAAC</span>
+              <span className="text-white font-bold text-2xl tracking-tight">Scylaac</span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed max-w-sm">
               Smart solutions, real growth. We build digital systems that scale — from websites and mobile apps to enterprise automation and AI.
@@ -3067,7 +3067,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-400 text-sm">
-            © 2025 SCYLAAAC. Alchemy of Dreams. All rights reserved.
+            © 2025 Scylaac. Alchemy of Dreams. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <Link
@@ -3122,7 +3122,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "SCYLAAAC — Alchemy of Dreams",
+  title: "Scylaac — Alchemy of Dreams",
   description: "Smart Solutions. Real Growth. Complete digital & technology solutions.",
 };
 
@@ -12099,7 +12099,7 @@ export default function ContactPage() {
 export default function AboutPage() {
   return (
     <main className="py-28 px-6 section-dark text-center">
-      <h1 className="text-4xl font-bold text-white mb-4">About SCYLAAAC</h1>
+      <h1 className="text-4xl font-bold text-white mb-4">About Scylaac</h1>
       <p className="text-gray-300 max-w-2xl mx-auto">We bridge the gap between ambitious businesses and the complex technology they need to scale.</p>
     </main>
   );
@@ -12946,7 +12946,7 @@ export default function HeroEnhanced() {
               <div className="relative glass-card rounded-3xl p-4 border border-white/10 shadow-2xl img-zoom overflow-hidden">
                 <Image
                   src="/assets/hero/hero_img2.png"
-                  alt="SCYLAAAC Dashboard"
+                  alt="Scylaac Dashboard"
                   width={800}
                   height={600}
                   sizes="(max-width: 1023px) 100vw, 50vw"
@@ -12997,7 +12997,7 @@ export default function HeroEnhanced() {
               <div className="relative glass-card rounded-3xl p-4 md:p-6 border border-white/10 shadow-2xl img-zoom overflow-hidden">
                 <Image
                   src="/assets/hero/hero_img2.png"
-                  alt="SCYLAAAC Dashboard"
+                  alt="Scylaac Dashboard"
                   width={800}
                   height={600}
                   sizes="(max-width: 1023px) 100vw, 50vw"
@@ -14178,7 +14178,7 @@ export default function WhyChooseUs() {
             <span ref={(el) => { titleWordsRef.current[1] = el; }} className="inline-block">the</span>{" "}
             <span ref={(el) => { titleWordsRef.current[2] = el; }} className="inline-block">best</span>{" "}
             <span ref={(el) => { titleWordsRef.current[3] = el; }} className="inline-block">choose</span>{" "}
-            <span ref={(el) => { titleWordsRef.current[4] = el; }} className="inline-block text-[#1E90C8]">SCYLAAAC</span>
+            <span ref={(el) => { titleWordsRef.current[4] = el; }} className="inline-block text-[#1E90C8]">Scylaac</span>
           </h2>
         </div>
 
@@ -14806,7 +14806,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center">
   <Image
     src={navbarTheme === "dark" ? "/assets/logo.png" : "/assets/logo-light.jpeg"}
-    alt="SCYLAAAC"
+    alt="Scylaac"
     width={200}
     height={60}
     className="h-12 md:h-14 w-auto"
@@ -15062,7 +15062,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-[#1E90C8] to-[#1873A3] rounded-xl flex items-center justify-center shadow-lg shadow-[#1E90C8]/20">
                 <span className="font-bold text-white text-xl">S</span>
               </div>
-              <span className="text-white font-bold text-2xl tracking-tight">SCYLAAAC</span>
+              <span className="text-white font-bold text-2xl tracking-tight">Scylaac</span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed max-w-sm">
               Smart solutions, real growth. We build digital systems that scale — from websites and mobile apps to enterprise automation and AI.
@@ -15153,7 +15153,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-400 text-sm">
-            © 2025 SCYLAAAC. Alchemy of Dreams. All rights reserved.
+            © 2025 Scylaac. Alchemy of Dreams. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <Link
@@ -15208,7 +15208,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "SCYLAAAC — Alchemy of Dreams",
+  title: "Scylaac — Alchemy of Dreams",
   description: "Smart Solutions. Real Growth. Complete digital & technology solutions.",
 };
 

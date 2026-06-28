@@ -218,7 +218,7 @@ export default function HeroEnhanced() {
               <div className="relative glass-card rounded-3xl p-4 border border-white/10 shadow-2xl img-zoom overflow-hidden">
                 <Image
                   src="/assets/hero/hero_img2.png"
-                  alt="SCYLAAAC Dashboard"
+                  alt="Scylaac Dashboard"
                   width={800}
                   height={600}
                   sizes="(max-width: 1023px) 100vw, 50vw"
@@ -269,7 +269,7 @@ export default function HeroEnhanced() {
               <div className="relative glass-card rounded-3xl p-4 md:p-6 border border-white/10 shadow-2xl img-zoom overflow-hidden">
                 <Image
                   src="/assets/hero/hero_img2.png"
-                  alt="SCYLAAAC Dashboard"
+                  alt="Scylaac Dashboard"
                   width={800}
                   height={600}
                   sizes="(max-width: 1023px) 100vw, 50vw"

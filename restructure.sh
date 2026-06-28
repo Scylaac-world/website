@@ -1,5 +1,5 @@
 #!/bin/bash
-# SCYLAAAC Cleanup & Migration Script
+# Scylaac Cleanup & Migration Script
 # Moves service sections into their route folders, relocates shared UI,
 # updates all imports, and removes old components/sections folder.
 

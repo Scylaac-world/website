@@ -52,7 +52,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center">
           <Image
             src={ "/assets/logo.png" }
-            alt="SCYLAAAC"
+            alt="Scylaac"
             width={200}
             height={60}
             className="h-12 md:h-14 w-auto"

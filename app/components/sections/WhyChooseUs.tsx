@@ -136,7 +136,7 @@ export default function WhyChooseUs() {
           <div className="text-center mb-16">
             <span className="text-[#1E90C8] text-xs font-bold tracking-[0.3em] uppercase">Your Growth Partner</span>
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mt-4 text-white">
-              Why the best choose <span className="text-[#1E90C8]">SCYLAAAC</span>
+              Why the best choose <span className="text-[#1E90C8]">Scylaac</span>
             </h2>
             <div className="w-20 h-1 bg-[#1E90C8] mx-auto mt-4 rounded-full" />
             <p className="text-slate-400 text-lg max-w-2xl mx-auto mt-4">
