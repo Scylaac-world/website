@@ -106,7 +106,7 @@ export default function Footer() {
               ))}
             </ul>
             <div className="mt-4 text-sm text-slate-400">
-              <p>Bangalore, India</p>
+              <p>Mangalore, India</p>
             </div>
           </div>
 

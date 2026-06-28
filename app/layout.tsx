@@ -94,8 +94,8 @@ export default function RootLayout({
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
         />
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="icon" href="/assets/logo.png" sizes="any" />
+        <link rel="apple-touch-icon" href="/assets/logo.png" />
         <meta name="msapplication-TileColor" content="#1E90C8" />
         {/* JSON-LD Structured Data */}
         <script
