@@ -14,7 +14,7 @@ const inter = Inter({
 // SEO Metadata
 export const metadata: Metadata = {
   title: {
-    default: "Scylaac – Best Software & App Development Company in Mangalore",
+    default: "Scylaac – Alchemy of Dreams",
     template: "%s | Scylaac",
   },
   description:
