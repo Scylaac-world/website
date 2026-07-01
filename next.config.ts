@@ -13,6 +13,16 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+    async redirects() {
+    return [
+      {
+        source: "/services/:path*",
+        destination: "/",
+        permanent: false, // use false for temporary (302), true for permanent (301)
+      },
+    ];
+  },
+
 };
 
 export default nextConfig;
